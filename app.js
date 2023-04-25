@@ -1,3 +1,8 @@
+/* 
+Requisitos para desplegar:
+* puerto(port) asignado en las variables globales
+* comando "start":"node app.js" en el package.json:
+*/
 
 require('dotenv').config()
 const express = require('express')
